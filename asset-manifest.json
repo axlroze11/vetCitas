@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vetCitas/static/css/main.46b3771d.chunk.css",
+    "main.js": "/vetCitas/static/js/main.98165584.chunk.js",
+    "main.js.map": "/vetCitas/static/js/main.98165584.chunk.js.map",
+    "runtime-main.js": "/vetCitas/static/js/runtime-main.56b4bc75.js",
+    "runtime-main.js.map": "/vetCitas/static/js/runtime-main.56b4bc75.js.map",
+    "static/js/2.c1b87993.chunk.js": "/vetCitas/static/js/2.c1b87993.chunk.js",
+    "static/js/2.c1b87993.chunk.js.map": "/vetCitas/static/js/2.c1b87993.chunk.js.map",
+    "static/js/3.8b3c9eca.chunk.js": "/vetCitas/static/js/3.8b3c9eca.chunk.js",
+    "static/js/3.8b3c9eca.chunk.js.map": "/vetCitas/static/js/3.8b3c9eca.chunk.js.map",
+    "index.html": "/vetCitas/index.html",
+    "static/css/main.46b3771d.chunk.css.map": "/vetCitas/static/css/main.46b3771d.chunk.css.map",
+    "static/js/2.c1b87993.chunk.js.LICENSE.txt": "/vetCitas/static/js/2.c1b87993.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b4bc75.js",
+    "static/js/2.c1b87993.chunk.js",
+    "static/css/main.46b3771d.chunk.css",
+    "static/js/main.98165584.chunk.js"
+  ]
+}
